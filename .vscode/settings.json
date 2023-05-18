@@ -1,0 +1,18 @@
+{
+  "cSpell.words": [
+    "cuida",
+    "cuidando",
+    "dartz",
+    "datasource",
+    "formz",
+    "Inativo",
+    "interprise",
+    "usecases",
+    "Usuário"
+  ],
+  "editor.wordWrapColumn": 105,
+  "editor.minimap.maxColumn": 105,
+  "dart.lineLength": 105,
+  "dart.sdkPath": "/home/andrewdiass/.asdf/shims/dart",
+  "dart.flutterSdkPath": "/home/andrewdiass/.asdf/shims/flutter"
+}
